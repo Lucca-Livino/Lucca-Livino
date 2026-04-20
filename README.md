@@ -24,5 +24,5 @@ at **IFRO Campus Vilhena**. My focus is on backend development and data engineer
 
 
 ### Beyond code
-When I'm not programming, you'll find me exploring 🎨 drawing, watching 🎬 films,
+When I'm not programming, you'll find me exploring drawing, watching films,
 or appreciating art in general. I'm drawn to creativity in all its forms.
