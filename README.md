@@ -15,8 +15,8 @@ at **IFRO Campus Vilhena**. My focus is on backend development and data engineer
 ---
 <br/>
 <p align="center">
-  <a href="https://github.com/EduardoTartas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoTartas&layout=compact&theme=dark&locale=en&hide_border=true&bg_color=EB545400"/>
+  <a href="https://github.com/Lucca-Livino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca-Livino&layout=compact&theme=dark&locale=en&hide_border=true&bg_color=EB545400"/>
   </a>
  <a href="https://github.com/Lucca-Livino"><img src="https://streak-stats.demolab.com?user=Lucca-Livino&theme=dark&background=EB545400&border=EB545400" alt="GitHub Streak" /></a>
 </p>
